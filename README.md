@@ -1,2 +1,2 @@
-# Better-Vanilla-
+# Better Vanilla+
 Better Vanilla New content
