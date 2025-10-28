@@ -1,0 +1,27 @@
+{
+name: "bettervanilla"
+displayName: "Better Vanilla+"
+author: "Roman"
+description: "Better Vanilla New content.
+Mods that i used to create this mod:
+Exogenesis,
+Sapphirium,
+Erekir Liquefied,
+VanillaPlus,
+Erekir Additions,
+Erekir Reworked,
+New Horizon,
+MindustryPlus,
+Fading-Revelations.
+
+Languages
+        - English
+        - Russian(beta)
+
+Version: 0.2.6
+"
+version: "0.2.6"
+minGameVersion: 146
+java: true
+main: "adc.AdcMod"
+}
