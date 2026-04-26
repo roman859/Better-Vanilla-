@@ -1,0 +1,10 @@
+{
+name: "bettervanilla"
+displayName: "Better Vanilla+"
+author: "Roman"
+description: "Better Vanilla New content.
+Languages:
+        - English"
+version: "0.4.0"
+minGameVersion: 155
+}
