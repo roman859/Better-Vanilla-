@@ -3,6 +3,7 @@
 
 ![Logo]
 <br>
-Better Vanilla New content. Languages: English
+Better Vanilla New content. 
+Languages: English
 <!----------------------------------[ Links ]--------------------------------->
 [Logo]:  github/logo.png
