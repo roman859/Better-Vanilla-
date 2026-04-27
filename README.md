@@ -8,3 +8,4 @@ Better Vanilla New content.
 Languages: English
 <!----------------------------------[ Links ]--------------------------------->
 [Logo]:  github/logo.png
+[Banner]: github/banner.png
